@@ -1,4 +1,4 @@
-# Projeto com README (Dentro de um projeto colocar o nome do projeto nessa parte)
+# Projeto com README (nome do projeto)
 Um projeto de teste com um arquivo README (descrição do projeto)🎉
 
 [<img src="./aula readme.gif" alt="gif da tela aula readme dev quest">](https://sarahdev89.github.io/aula-tabela-dev-em-dobro/) nessa parte dá pra colocar o link de acesso ao projeto (ex aula de tabelas no pages)
