@@ -1,7 +1,7 @@
 # Projeto com README (nome do projeto)
 Um projeto de teste com um arquivo README (descrição do projeto)🎉
 
-[<img src="./aula readme.gif" alt="gif da tela aula readme dev quest">](<a href="https://sarahdev89.github.io/aula-tabela-dev-em-dobro" target="_blank">) 
+[<img src="./aula readme.gif" alt="gif da tela aula readme dev quest">](href="https://sarahdev89.github.io/aula-tabela-dev-em-dobro") 
 
 nessa parte dá pra colocar o link de acesso ao projeto (ex aula de tabelas no pages)
 
